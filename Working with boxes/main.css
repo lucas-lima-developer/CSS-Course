@@ -62,9 +62,12 @@ body {
 .main-nav__iten a {
   text-decoration: none;
   color: #0e4f1f;
+  font-weight: 700;
+  padding: 3px 0;
 }
 
 .main-nav__iten a:hover,
 .main-nav__iten a:active {
   color: white;
+  border-bottom: white 5px solid;
 }

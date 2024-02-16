@@ -31,12 +31,21 @@ body {
 
 .main-header > div {
   display: inline-block;
+  vertical-align: middle;
+}
+
+.main-header__brand {
+  color: #0e4f1f;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 22px;
 }
 
 .main-nav {
   display: inline-block;
-  width: calc(100% - 50px);
+  width: calc(100% - 70px);
   text-align: right;
+  vertical-align: middle;
 } 
 
 .main-nav__itens {

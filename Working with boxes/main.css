@@ -64,3 +64,11 @@ body {
   text-decoration: none;
   color: #0e4f1f;
 }
+
+.main-nav__iten a:hover {
+  color: white;
+}
+
+.main-nav__iten a:active {
+  color: white;
+}

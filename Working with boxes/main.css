@@ -71,3 +71,17 @@ body {
   color: white;
   border-bottom: white 5px solid;
 }
+
+.main-nav__iten--cta a {
+  color: white;
+  background: #ff1b68;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.main-nav__iten--cta a:hover,
+.main-nav__iten--cta a:active {
+  color: #ff1b68;
+  background: white;
+  border-bottom: none;
+}
